@@ -1,0 +1,5 @@
+class Priser{
+  
+ void  
+  
+}
